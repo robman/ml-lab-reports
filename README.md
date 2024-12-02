@@ -481,7 +481,7 @@ ml_lab_report 'My first basic attempt'
 **Inside your configured git editor, you’ll see:**
 
 ```markdown
-title: Add training script for basic MNIST model
+title: My first basic attempt 
 
 intro: 
 
@@ -495,7 +495,7 @@ results:
 **Fill in the sections:**
 
 ```markdown
-title: Add training script for and results for basic MNIST experiment 
+title: My first basic attempt 
 
 intro: 
 This experiment focuses on training a simple neural network using TensorFlow and Keras on the MNIST dataset to classify handwritten digits.
