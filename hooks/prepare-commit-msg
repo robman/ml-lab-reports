@@ -1,0 +1,8 @@
+#!/bin/sh
+
+COMMIT_MSG_FILE=$1
+COMMIT_SOURCE=$2
+SHA1=$3
+
+# Add title and structured sections
+echo "title: $title\n\n$(cat $COMMIT_MSG_FILE)" > "$COMMIT_MSG_FILE"
